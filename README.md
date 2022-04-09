@@ -1,4 +1,4 @@
-# JavaScript Logging Lab
+﻿# JavaScript Logging Lab
 
 ## Objectives
 
@@ -186,6 +186,7 @@ see the message "index calls console.warn()", we know that we can go back to our
 code and write something with `console.warn()`. You've got this!
 
 ## Resources
+## #####
 
 - [npm](https://npmjs.org)
 
